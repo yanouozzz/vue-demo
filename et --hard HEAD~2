@@ -1,0 +1,37 @@
+[33m0afe192[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{0}: pull: Fast-forward
+[33mdad2428[m HEAD@{1}: pull: Merge made by the 'recursive' strategy.
+[33m7cbd058[m HEAD@{2}: commit: 关注艺人页面
+[33m8cfa60c[m HEAD@{3}: pull: Fast-forward
+[33me6c314e[m HEAD@{4}: pull: Fast-forward
+[33maba1270[m HEAD@{5}: pull: Merge made by the 'recursive' strategy.
+[33m8283c64[m HEAD@{6}: commit: 个人中心子页面
+[33m0fc4a8d[m HEAD@{7}: commit: vant组件注册增加
+[33md9bae26[m HEAD@{8}: commit: 个人中心的数据
+[33md85a6ba[m HEAD@{9}: pull: Fast-forward
+[33m810c01a[m HEAD@{10}: reset: moving to 810c01ac26508c2eac1d032b927317635d3cf5e1
+[33md85a6ba[m HEAD@{11}: pull: Fast-forward
+[33m810c01a[m HEAD@{12}: reset: moving to 810c01ac26508c2eac1d032b927317635d3cf5e1
+[33md85a6ba[m HEAD@{13}: pull: Fast-forward
+[33m810c01a[m HEAD@{14}: reset: moving to 810c01ac26508c2eac1d032b927317635d3cf5e1
+[33md85a6ba[m HEAD@{15}: pull origin develop: Fast-forward
+[33m810c01a[m HEAD@{16}: reset: moving to 810c01ac26508c2eac1d032b927317635d3cf5e1
+[33md85a6ba[m HEAD@{17}: pull origin develop: Fast-forward
+[33m810c01a[m HEAD@{18}: reset: moving to 810c01ac26508c2eac1d032b927317635d3cf5e1
+[33mcdadba7[m HEAD@{19}: reset: moving to HEAD
+[33mcdadba7[m HEAD@{20}: commit (merge): 合并 master
+[33m8082775[m HEAD@{21}: reset: moving to 8082775cbdda07b5ce07836d16ef7df773678ad8
+[33m8082775[m HEAD@{22}: pull: Fast-forward
+[33m810c01a[m HEAD@{23}: checkout: moving from master to develop
+[33m97c005b[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{24}: pull: Fast-forward
+[33mcdb851d[m HEAD@{25}: checkout: moving from develop to master
+[33m810c01a[m HEAD@{26}: reset: moving to 810c01ac26508c2eac1d032b927317635d3cf5e1
+[33m8082775[m HEAD@{27}: commit (merge): 合并后的代码
+[33m810c01a[m HEAD@{28}: commit: 个人中心页面新增
+[33mae7dc2c[m HEAD@{29}: commit: 合并运行无误后的提交
+[33mefd3d0b[m HEAD@{30}: commit (merge): 合并
+[33mc75acbb[m HEAD@{31}: commit: 个人中心页面增加
+[33m743e5a9[m HEAD@{32}: merge 743e5a902075d0a17f807229d4fb6d921de1fda3: Fast-forward
+[33mcdb851d[m HEAD@{33}: checkout: moving from develop to develop
+[33mcdb851d[m HEAD@{34}: checkout: moving from master to develop
+[33mcdb851d[m HEAD@{35}: commit: 初始化项目
+[33mad000b6[m HEAD@{36}: commit (initial): init
